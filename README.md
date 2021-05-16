@@ -1,3 +1,3 @@
 # Observer_Test
 
-Function test software for hardware with Indoor Positioning System ESP32
+- Function test software for hardware with Indoor Positioning System ESP32
